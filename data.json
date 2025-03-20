@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "idx": 1,
+      "name": "tracks",
+      "path": "tiles/tracks/tile",
+      "extension": ".png",
+      "total_img": 2,
+      "edges": [
+        ["B", "B", "B", "B"],
+        ["A", "A", "A", "B"]
+      ],
+      "rotation": [
+        [0, 0, 0, 0],
+        [0, 1, 2, 3]
+      ]
+    },
+    {
+      "idx": 2,
+      "name": "circuit",
+      "path": "tiles/circuit/",
+      "extension": ".png",
+      "total_img": 12,
+      "edges": [
+        ["B", "B", "B", "B"],
+        ["A", "A", "A", "A"],
+        ["A", "C", "A", "A"],
+        ["A", "D", "A", "D"],
+        ["A", "C", "A", "B"],
+        ["A", "C", "A", "C"],
+        ["D", "C", "D", "C"],
+        ["D", "A", "C", "A"],
+        ["C", "C", "A", "C"],
+        ["C", "C", "C", "C"],
+        ["C", "C", "A", "A"],
+        ["A", "C", "A", "C"]
+      ],
+      "rotation": [
+        [0, 0, 0, 0],
+        [0, 0],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3]
+      ]
+    },
+    {
+      "idx": 3,
+      "name": "circuit 2",
+      "path": "tiles/circuit_2/",
+      "extension": ".png",
+      "total_img": 12,
+      "edges": [
+        ["B", "B", "B", "B"],
+        ["A", "A", "A", "A"],
+        ["A", "C", "A", "A"],
+        ["A", "D", "A", "D"],
+        ["A", "C", "A", "B"],
+        ["A", "C", "A", "C"],
+        ["D", "C", "D", "C"],
+        ["D", "A", "C", "A"],
+        ["C", "C", "A", "C"],
+        ["C", "C", "C", "C"],
+        ["C", "C", "A", "A"],
+        ["A", "C", "A", "C"]
+      ],
+      "rotation": [
+        [0, 0, 0, 0],
+        [0, 0],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3],
+        [0, 1, 2, 3]
+      ]
+    },
+    {
+      "idx": 4,
+      "name": "train tracks",
+      "path": "tiles/train_tracks/",
+      "extension": ".png",
+      "total_img": 2,
+      "edges": [
+        ["B", "B", "B", "B"],
+        ["B", "A", "A", "A"]
+      ],
+      "rotation": [
+        [0, 0, 0, 0],
+        [0, 1, 2, 3]
+      ]
+    },
+    {
+      "idx": 5,
+      "name": "mountains",
+      "path": "tiles/mountains/",
+      "extension": ".png",
+      "total_img": 2,
+      "edges": [
+        ["B", "B", "B", "B"],
+        ["B", "A", "A", "A"]
+      ],
+      "rotation": [[0], [0, 1, 2, 3]]
+    },
+    {
+      "idx": 6,
+      "name": "pipes",
+      "path": "tiles/pipes/",
+      "extension": ".png",
+      "total_img": 2,
+      "edges": [
+        ["B", "B", "B", "B"],
+        ["B", "A", "A", "A"]
+      ],
+      "rotation": [[0], [0, 1, 2, 3]]
+    },
+    {
+      "idx": 7,
+      "name": "polka",
+      "path": "tiles/polka/",
+      "extension": ".png",
+      "total_img": 2,
+      "edges": [
+        ["B", "B", "B", "B"],
+        ["B", "A", "A", "A"]
+      ],
+      "rotation": [[0], [0, 1, 2, 3]]
+    },
+    {
+      "idx": 8,
+      "name": "rail",
+      "path": "tiles/rail/tile",
+      "extension": ".png",
+      "total_img": 5,
+      "edges": [
+        ["B", "B", "B", "B"],
+        ["A", "A", "A", "B"],
+        ["A", "A", "B", "B"],
+        ["A", "B", "A", "B"],
+        ["A", "A", "A", "A"]
+      ],
+      "rotation": [[0], [0, 1, 2, 3], [0, 1, 2, 3], [0, 1], [0, 1]]
+    },
+    {
+      "idx": 9,
+      "name": "roads",
+      "path": "tiles/roads/",
+      "extension": ".png",
+      "total_img": 2,
+      "edges": [
+        ["B", "B", "B", "B"],
+        ["B", "A", "A", "A"]
+      ],
+      "rotation": [
+        [0, 0, 0, 0],
+        [0, 1, 2, 3]
+      ]
+    }
+  ]
+}
